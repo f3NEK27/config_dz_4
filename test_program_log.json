@@ -1,0 +1,233 @@
+{
+  "instruction_5": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 200,
+    "C": 2
+  },
+  "instruction_6": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 10,
+    "C": 3
+  },
+  "instruction_7": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 3,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_10": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 201,
+    "C": 2
+  },
+  "instruction_11": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 20,
+    "C": 3
+  },
+  "instruction_12": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 3,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_15": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 202,
+    "C": 2
+  },
+  "instruction_16": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 30,
+    "C": 3
+  },
+  "instruction_17": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 3,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_20": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 203,
+    "C": 2
+  },
+  "instruction_21": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 40,
+    "C": 3
+  },
+  "instruction_22": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 3,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_25": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 204,
+    "C": 2
+  },
+  "instruction_26": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 50,
+    "C": 3
+  },
+  "instruction_27": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 3,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_30": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 128,
+    "C": 5
+  },
+  "instruction_35": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 200,
+    "C": 2
+  },
+  "instruction_36": {
+    "mnemonic": "READ_MEM",
+    "A": 28,
+    "B": 3,
+    "C": 2
+  },
+  "instruction_37": {
+    "mnemonic": "LEQ",
+    "A": 19,
+    "B": 3,
+    "C": 4,
+    "D": 5
+  },
+  "instruction_38": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 4,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_41": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 201,
+    "C": 2
+  },
+  "instruction_42": {
+    "mnemonic": "READ_MEM",
+    "A": 28,
+    "B": 3,
+    "C": 2
+  },
+  "instruction_43": {
+    "mnemonic": "LEQ",
+    "A": 19,
+    "B": 3,
+    "C": 4,
+    "D": 5
+  },
+  "instruction_44": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 4,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_47": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 202,
+    "C": 2
+  },
+  "instruction_48": {
+    "mnemonic": "READ_MEM",
+    "A": 28,
+    "B": 3,
+    "C": 2
+  },
+  "instruction_49": {
+    "mnemonic": "LEQ",
+    "A": 19,
+    "B": 3,
+    "C": 4,
+    "D": 5
+  },
+  "instruction_50": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 4,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_53": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 203,
+    "C": 2
+  },
+  "instruction_54": {
+    "mnemonic": "READ_MEM",
+    "A": 28,
+    "B": 3,
+    "C": 2
+  },
+  "instruction_55": {
+    "mnemonic": "LEQ",
+    "A": 19,
+    "B": 3,
+    "C": 4,
+    "D": 5
+  },
+  "instruction_56": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 4,
+    "C": 2,
+    "D": 0
+  },
+  "instruction_59": {
+    "mnemonic": "LOAD_CONST",
+    "A": 57,
+    "B": 204,
+    "C": 2
+  },
+  "instruction_60": {
+    "mnemonic": "READ_MEM",
+    "A": 28,
+    "B": 3,
+    "C": 2
+  },
+  "instruction_61": {
+    "mnemonic": "LEQ",
+    "A": 19,
+    "B": 3,
+    "C": 4,
+    "D": 5
+  },
+  "instruction_62": {
+    "mnemonic": "WRITE_MEM",
+    "A": 61,
+    "B": 4,
+    "C": 2,
+    "D": 0
+  }
+}
